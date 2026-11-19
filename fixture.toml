@@ -1,0 +1,4 @@
+stack = "go"
+shape = "red-base"
+protection = "required-check"
+expect = "go test ./..."
